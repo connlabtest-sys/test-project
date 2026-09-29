@@ -1,1 +1,1 @@
-function login() {}
+function login(user, pass) {}
